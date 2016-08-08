@@ -1,0 +1,30 @@
+{
+    "name" : "Yame/EmployeeBundle",
+    "description" : "A bundle to manage company employee as the application users",
+    "type" : "symfony-bundle",
+    "authors" : [{
+        "name" : "Saint-Cyr",
+        "email" : "scmapouka@yameservices.com"
+    }],
+    "keywords" : [
+        "Employee bundle"
+    ],
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+    },
+    "autoload" : {
+        "psr-0" : {
+            "Yame\\EmployeeBundle" : ""
+        }
+    },
+    "target-dir" : "Yame/EmployeeBundle",
+    "repositories" : [{
+    }],
+    "extra" : {
+    "branch-alias" : {
+            "dev-master" : "1.0-dev"
+        }
+    }
+}
