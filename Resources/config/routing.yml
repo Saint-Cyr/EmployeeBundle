@@ -1,0 +1,3 @@
+yame_employee_homepage:
+    path:     /
+    defaults: { _controller: YameEmployeeBundle:Default:index }
