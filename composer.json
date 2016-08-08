@@ -1,5 +1,5 @@
 {
-    "name" : "yame/employeeBundle",
+    "name" : "yame/employeebundle",
     "description" : "A bundle to manage company employee as the application users",
     "type" : "symfony-bundle",
     "authors" : [{
